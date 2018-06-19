@@ -1,8 +1,3 @@
-import sys
-print(sys.path)
-
-#%%
-
 import spyder  #Folder Name
 
 #%%
