@@ -1,4 +1,4 @@
-import spyder  #Folder Name lkjlkjljlj
+import spyder
 
 #%%
 class ClassTest:
